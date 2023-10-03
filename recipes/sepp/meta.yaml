@@ -24,7 +24,7 @@ requirements:
     - python 3.7
     - setuptools
     - pip
-    - dendropy <=4.5.1
+    - dendropy 4.5.1
     - openjdk
     - hmmer ==3.1b2
 
